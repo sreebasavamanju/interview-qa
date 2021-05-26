@@ -6,6 +6,8 @@ import java.nio.file.Paths;
 import java.util.List;
 import java.util.stream.Collectors;
 
+import com.preparing.interview_qa.data.Data;
+
 /*
  * READ CSV file it as student details which has student name and student mark, sort the data based on mark in descending order and print the result
  * 

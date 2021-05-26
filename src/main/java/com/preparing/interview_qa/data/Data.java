@@ -1,4 +1,4 @@
-package com.preparing.interview_qa;
+package com.preparing.interview_qa.data;
 
 //POJO yo hold SAMPLE Student DATA from CSV
 public class Data {
